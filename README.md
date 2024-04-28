@@ -67,7 +67,6 @@ If you created an application or package and would like other developers to cont
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
 A GitHub profile with consistently high-quality README files is sure to help you stand out among the crowd of developers putting their work on GitHub, so make sure you give these important files the time and attention they deserve.
 
-
 User Story
 AS a freelance web developer
 I WANT to generate a simple logo for my projects
@@ -103,15 +102,15 @@ node index.js
 It is recommended that you start with a directory structure that looks like the following example:
 
 .  
-├── examples/           // Example svg file(s) created with the app
-├── lib/                // Folder for classes or functions
-    ├── shapes.js       // Exports `Triangle`, `Circle`, and `Square` classes
-    ├── shapes.test.js  // Jest tests for shapes
-    └── more...         // Additional files and tests
-├── .gitignore          // Indicates which folders and files Git should ignore
-├── index.js            // Runs the application using imports from lib/
+├── examples/ // Example svg file(s) created with the app
+├── lib/ // Folder for classes or functions
+├── shapes.js // Exports `Triangle`, `Circle`, and `Square` classes
+├── shapes.test.js // Jest tests for shapes
+└── more... // Additional files and tests
+├── .gitignore // Indicates which folders and files Git should ignore
+├── index.js // Runs the application using imports from lib/
 ├── package.json
-└── README.md           // App description, link to video, setup and usage instructions           
+└── README.md // App description, link to video, setup and usage instructions  
 IMPORTANT
 Make sure that you remove dist from the .gitignore file so that Git will track this folder and include it when you push up to your application's repository.
 
