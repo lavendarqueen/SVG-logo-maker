@@ -1,6 +1,8 @@
 const fs = require("fs");
 const inquirer = require("inquirer");
-const createSVG = require("'.lib/createSVG");
+const Circle = require("./lib/circle.js");
+const Square = require("./lib/square.js");
+const Triangle = require("./lib/triangle.js");
 
 // Questions for user input
 const questions = [
