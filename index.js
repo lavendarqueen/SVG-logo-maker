@@ -14,30 +14,13 @@ const questions = [
   {
     type: "input",
     message: "Please enter a color name or hexadecimal code for your text.",
-    name: "text-color",
-  },
-  {
-    type: "list",
-    message: "Please select a font for your Text.",
-    name: "textFont",
-    choices: [
-      "Arial",
-      "Broadway",
-      "Calisto",
-      "Garamond",
-      "Helvetica",
-      "Lucida",
-      "Tahoma",
-      "Times New Roman",
-      "Trebuchet MS",
-      "Verdana",
-    ],
+    name: "textColor",
   },
   {
     type: "list",
     message: "Please choose a background shape.",
     name: "backgroundShape",
-    choices: ["square", "circle", "ellipse", "triangle", "triangle", "hexagon"],
+    choices: ["triangle", "square", "circle"],
   },
   {
     type: "input",
@@ -46,3 +29,30 @@ const questions = [
     name: "backgroundColor",
   },
 ];
+
+inquirer.prompt(questions).then((answers) => {
+  let shape;
+  if (answers.backgroundShape === "triangle") {
+    shape = new Triangle(
+      answers.textContent,
+      answers.backgroundColor,
+      answers.textColor
+    );
+  } else if (answers.backgroundShape === "circle") {
+    shape = new Circle(
+      answers.textContent,
+      answers.backgroundColor,
+      answers.textColor
+    );
+  } else {
+    shape = new Square(
+      answers.textContent,
+      answers.backgroundColor,
+      answers.textColor
+    );
+  }
+  fs.writeFile("logo.svg", shape.render(), (err) => {
+    if (err) console.log(err);
+    else console.log("logo successfully created");
+  });
+});
