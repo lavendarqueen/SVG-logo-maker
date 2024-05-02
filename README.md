@@ -63,13 +63,17 @@ If you created an application or package and would like other developers to cont
 ## Tests
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+
 A GitHub profile with consistently high-quality README files is sure to help you stand out among the crowd of developers putting their work on GitHub, so make sure you give these important files the time and attention they deserve.
 
-User Story
+## User Story
+
 AS a freelance web developer
 I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
-Acceptance Criteria
+
+## Acceptance Criteria
+
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for text
 THEN I can enter up to three characters
