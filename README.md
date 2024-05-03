@@ -19,16 +19,12 @@ This is an application to create logos in varying shapes and colors at the user'
 ## Installation
 
 From the command line, input node index.js and follow the prompts:
-![]()
 
 ## Usage
 
 1. To preview your logo, right-click on the logo.svg file.
-   ![]()
 
 2. Select "Preview SVG".
-   ![]()
-   .
 
 ## Tests
 
@@ -84,7 +80,7 @@ Contributions in the interest of sharing ideas and concepts are sincerely apprec
 - GitHub username: lavendarqueen
 - Deployed repository: https://note-taker-ytjo.onrender.com
 
-![Yellow Triangle](/assets/Screenshot2-logo.png)
+![Yellow Triangle](/assets/images/Screenshot2-logo.png)
 
 <!-- ## User Story
 
