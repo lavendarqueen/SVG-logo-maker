@@ -16,16 +16,19 @@ This is an application to create logos in varying shapes and colors at the user'
 - [Contributions](#contributions)
 - [Contact](#contact)
 
-## Installation
+To view installation, usage, and testing instructions, please click the link to the video walk-through:
+https://github.com/lavendarqueen/SVG-logo-maker/assets/159203938/2b1d3e42-05df-4c1f-a592-a25c0177c13c
 
-From the command line, input node index.js and follow the prompts:
-Link to video walk-through: https://github.com/lavendarqueen/SVG-logo-maker/assets/159203938/2b1d3e42-05df-4c1f-a592-a25c0177c13c)
+## Installation Instructions
+
+1. From the command line, input node index.js
+2. Prompts will appear allowing you to select text color, then shape, then shape color.
 
 ## Usage
 
-1. To preview your logo, right-click on the logo.svg file.
-
-2. Select "Preview SVG".
+1. After making your selections, you will receive the message "logo successfully created.
+2. To preview your logo, right-click on the "logo.svg" file.
+3. Select "Preview SVG" and expand the terminal.
 
 ## Tests
 
