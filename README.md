@@ -4,7 +4,7 @@
 
 ## Description
 
-This is an application to create logos in varying shapes and colors at the user's discretion, using a few prompts from the command line interface. It was a fun and interesting project and I learned about the SVG (Scalable Vector Graphics) coordinate system, as well as how to build tests using Jest.
+This is an application to create logos in varying shapes and colors at the user's discretion, using a few prompts from the command line interface. It was a fun and interesting project. I learned how to install and use inquirer and the SVG (Scalable Vector Graphics) coordinate system, as well as how to build tests using Jest.
 
 ## Table of Contents
 
@@ -19,23 +19,27 @@ This is an application to create logos in varying shapes and colors at the user'
 To view installation, usage, and testing instructions, please click the link to the video walk-through:
 https://github.com/lavendarqueen/SVG-logo-maker/assets/159203938/2b1d3e42-05df-4c1f-a592-a25c0177c13c
 
-## Installation Instructions
+## Installation
 
-1. From the command line, input node index.js
-2. Prompts will appear allowing you to select text color, then shape, then shape color.
+From the command line, input "node index.js"
+Prompts will appear allowing you to select text color, then shape, then shape color.
 
 ## Usage
 
-1. After making your selections, you will receive the message "logo successfully created.
-2. To preview your logo, right-click on the "logo.svg" file.
-3. Select "Preview SVG" and expand the terminal.
+After making your selections, you will receive the message: "logo successfully created".
+
+To preview your logo, right-click on the "logo.svg" file.
+
+Select "Preview SVG" and expand the terminal.
 
 ## Tests
 
-I built testing suites for each of the three shape and various color choices for this application using Jest. To run the tests:
+I built testing suites for each of the three shapes and various color choices for this application using Jest. To run the tests:
 
-1. From the command line, input "npm install jest" and hit enter.
+1. From the command line, input "npm install jest" and hit enter when the file has loaded.
+
 2. Then input "npm run test" and hit enter.
+
 3. You will find the test results in the terminal.
 
 ## Credits
@@ -83,9 +87,9 @@ Contributions in the interest of sharing ideas and concepts are sincerely apprec
 - Email: lataillep@gmail.com
 - GitHub username: lavendarqueen
 - Deployed repository: https://note-taker-ytjo.onrender.com
-- Link to video walk-through: https://drive.google.com/open?id=1-BoePms129_m7NhAgbjPpc6SX5SWepuy&usp=drive_fs)
+- GitHub repository: https://github.com/lavendarqueen/SVG-logo-maker
 
-![Yellow Triangle](/assets/images/Screenshot2-logo.png)
+![Yellow Triangle](/assets/images/Screenshot1-logo.png)
 
 <!-- ## User Story
 
