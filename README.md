@@ -19,6 +19,7 @@ This is an application to create logos in varying shapes and colors at the user'
 ## Installation
 
 From the command line, input node index.js and follow the prompts:
+Link to video walk-through: https://github.com/lavendarqueen/SVG-logo-maker/assets/159203938/2b1d3e42-05df-4c1f-a592-a25c0177c13c)
 
 ## Usage
 
@@ -79,6 +80,7 @@ Contributions in the interest of sharing ideas and concepts are sincerely apprec
 - Email: lataillep@gmail.com
 - GitHub username: lavendarqueen
 - Deployed repository: https://note-taker-ytjo.onrender.com
+- Link to video walk-through: https://drive.google.com/open?id=1-BoePms129_m7NhAgbjPpc6SX5SWepuy&usp=drive_fs)
 
 ![Yellow Triangle](/assets/images/Screenshot2-logo.png)
 
