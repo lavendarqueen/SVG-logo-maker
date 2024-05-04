@@ -28,9 +28,13 @@ Prompts will appear allowing you to select text color, then shape, then shape co
 
 After making your selections, you will receive the message: "logo successfully created".
 
-To preview your logo, right-click on the "logo.svg" file.
+To preview your logo, right-click on the "logo.svg" file:
+
+![Screenshot right click logo.svg](/assets/images/Screenshot1-rt-click-logo.png)
 
 Select "Preview SVG" and expand the terminal.
+
+![Screenshot click Preview SVG](/assets/images/Screenshot2-click-preview.png)
 
 ## Tests
 
@@ -89,7 +93,7 @@ Contributions in the interest of sharing ideas and concepts are sincerely apprec
 - Deployed repository: https://note-taker-ytjo.onrender.com
 - GitHub repository: https://github.com/lavendarqueen/SVG-logo-maker
 
-![Yellow Triangle](/assets/images/Screenshot1-logo.png)
+![Yellow Triangle](/assets/images/Screenshot3-logo.png)
 
 <!-- ## User Story
 
