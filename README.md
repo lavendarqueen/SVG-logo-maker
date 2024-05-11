@@ -80,8 +80,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
----
-
 ## Contributions
 
 Contributions in the interest of sharing ideas and concepts are sincerely appreciated. To contribute, fork my repository and send a pull request with your improvements. Please leave a star!
@@ -90,7 +88,6 @@ Contributions in the interest of sharing ideas and concepts are sincerely apprec
 
 - Email: lataillep@gmail.com
 - GitHub username: lavendarqueen
-- Deployed repository: https://note-taker-ytjo.onrender.com
 - GitHub repository: https://github.com/lavendarqueen/SVG-logo-maker
 
 ![Yellow Triangle](/assets/images/Screenshot3-logo.png)
