@@ -17,7 +17,8 @@ This is an application to create logos in varying shapes and colors at the user'
 - [Contact](#contact)
 
 To view installation, usage, and testing instructions, please click the link to the video walk-through:
-https://github.com/lavendarqueen/SVG-logo-maker/assets/159203938/2b1d3e42-05df-4c1f-a592-a25c0177c13c
+
+<video controls src="assets/video/Recording-SVG-logo-maker-c.mp4" title="Title"></video>
 
 ## Installation
 
